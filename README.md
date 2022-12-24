@@ -5,4 +5,4 @@ This repository is associated with my YouTube video, "HTML Elements - Coding Tut
 
 Direct Link to Video:
 
-https://www.youtube.com/watch?v=Z-8in2-ItQk
+https://www.youtube.com/watch?v=76LJ22ulQw8
